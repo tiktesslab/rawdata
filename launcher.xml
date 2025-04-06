@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="tis-620" ?>
+<info>
+    <news>
+	    <news 
+            name="Chinese new year GACHA" 
+            detail="This year of the Golden Dragon Whose horoscope is great or not? Come check it out first in the Gacha random box opening activity, collect points and get a chance to win rare prizes."
+            url="https://news.infestsea.com/en/chinese-newyear-2024-sea" 
+            imgurl="https://pucca-studio.com/asia/assets/images/game-cos-1-500x375.jpg"
+            date="14.01.2024"
+            onweb="true"
+        />
+        <news 
+            name="Valentine's Lucky Spin" 
+            detail="Juicy prizes to welcome the month of love. Come have a chance to win rare skins and Festive item prizes for this year's Valentine's Day."
+            url="https://news.infestsea.com/en/valentine-2024-sea " 
+            imgurl="https://pucca-studio.com/asia/assets/images/game-cos-1-500x375.jpg"
+            date="14.01.2024"
+            onweb="true"
+        />
+	    <news 
+            name="New Survivor Pass" 
+            detail="New Survivor Pass, prepare to welcome the month of love  Add on New items, upgrade rewards to the MAX."
+            url="https://news.infestsea.com/en/survivorpass-sea/" 
+            imgurl="https://pucca-studio.com/asia/assets/images/game-cos-1-500x375.jpg"
+            date="24.01.2024"
+            onweb="true"
+        />
+        <news 
+            name="TOP-UP Milestone" 
+            detail="Special Top-up event, collect Wallet Points for every Top-up. Get it immediately. Exclusive skin."
+            url="https://news.infestsea.com/en/top-up-milestone-sea/" 
+            imgurl="https://pucca-studio.com/asia/assets/images/game-cos-1-500x375.jpg"
+            date="24.01.2024"
+            onweb="true"
+        />
+        <news 
+            name="Super star event" 
+            detail="Good news Infestation SEA people, throughout January. Just by participating in any event on all of our official channels, you will receive accumulated points that can be collected and immediately exchanged for special prizes."
+            url="https://news.infestsea.com/en/superstar-sea/" 
+            imgurl="https://pucca-studio.com/asia/assets/images/game-cos-1-500x375.jpg"
+            date="24.01.2024"
+            onweb="true"
+        />
+		
+		<news 
+            name="Chinese new year GACHA" 
+            detail="This year of the Golden Dragon Whose horoscope is great or not? Come check it out first in the Gacha random box opening activity, collect points and get a chance to win rare prizes."
+            url="https://news.infestsea.com/en/chinese-newyear-2024-sea" 
+            imgurl="https://pucca-studio.com/asia/assets/images/game-cos-1-500x375.jpg"
+            date="14.01.2024"
+            onweb="true"
+        />
+        <news 
+            name="Valentine's Lucky Spin" 
+            detail="Juicy prizes to welcome the month of love. Come have a chance to win rare skins and Festive item prizes for this year's Valentine's Day."
+            url="https://news.infestsea.com/en/valentine-2024-sea " 
+            imgurl="https://pucca-studio.com/asia/assets/images/game-cos-1-500x375.jpg"
+            date="14.01.2024"
+            onweb="true"
+        />
+	</news>
+	
+    <SurveyIn link=""/>
+    <SurveyOut link=""/>
+    <ServerInfo status="ONLINE"/>
+</info>
+<!--  ONLINE PATCH OFFLINE  -->
