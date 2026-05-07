@@ -95,6 +95,7 @@
     }
 
     #closebrowser {
+      display: inline-block;
       background: linear-gradient(180deg, #c0392b 0%, #922b21 100%);
       color: #fff;
       border: 1px solid #e74c3c;
@@ -104,6 +105,7 @@
       cursor: pointer;
       border-radius: 3px;
       letter-spacing: 0.5px;
+      text-decoration: none;
       transition: background 0.15s, box-shadow 0.15s;
     }
 
@@ -135,20 +137,10 @@
   </div>
 
   <div id="footer">
-    <button id="closebrowser" onclick="closeBrowser()">ปิดหน้าต่าง</button>
+    <a id="closebrowser" href="closebrowser://close">ปิดหน้าต่าง</a>
   </div>
 
   <script>
-    function closeBrowser() {
-      if (window.WarZCallback && typeof window.WarZCallback.closebrowser === 'function') {
-        window.WarZCallback.closebrowser();
-      } else if (window.external && typeof window.external.closebrowser === 'function') {
-        window.external.closebrowser();
-      } else {
-        window.close();
-      }
-    }
-
     fetch('update.txt')
       .then(function(res) {
         if (!res.ok) throw new Error('not found');
